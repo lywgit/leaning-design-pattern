@@ -1,2 +1,4 @@
 # leaning-design-pattern
-A place to keep codes while going through the book: Head first esign Patterns
+
+Just a place to keep code pieces while going through the book: *Head first design Patterns* 
+
